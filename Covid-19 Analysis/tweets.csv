@@ -1,0 +1,101 @@
+,geo,text,user,location,entities,sentiment,country
+0,, stop,David_Ordure,,[],"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}",
+1,,"   2/24/2020 asks people to ""come to #Chinatown""Rolls into #DC &amp; holds up  #…",TJentilucci,USA,"[('2/24/2020', 'DATE'), '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",United States
+2,," Please #GetWellSoon has no boundaries &amp; at this time in history #IDEOLOGY, #Race, #Political…",moderateRepand1,"New Jersey, USA","[('Race', 'PERSON')]","{'neg': 0.133, 'neu': 0.727, 'pos': 0.139, 'compound': 0.0258}",USA
+3,,"Please #GetWellSoon has no boundaries &amp; at this time in history #IDEOLOGY, #Race,… ",moderateRepand1,"New Jersey, USA","[('Race', 'PERSON')]","{'neg': 0.142, 'neu': 0.71, 'pos': 0.148, 'compound': 0.0258}",USA
+4,,"   2/24/2020 asks people to ""come to #Chinatown""Rolls into #DC &amp; holds up  #…",moderateRepand1,"New Jersey, USA","[('2/24/2020', 'DATE'), '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+5,,"  2/24/2020 asks people to ""come to #Chinatown""Rolls into #DC &amp; holds up… ",moderateRepand1,"New Jersey, USA","[('2/24/2020', 'DATE'), '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+6,,"CatholicMom: Plagues, Wars, Facebook and Hope What new experiences is God using you to draw you closer to him this… ",NancyHCWard,Dallas,"[('Plagues', 'PERSON'), ('Wars', 'PERSON')]","{'neg': 0.141, 'neu': 0.664, 'pos': 0.195, 'compound': 0.1027}",USA
+7,,"America’s healthcare workers are at war, if they were the army, they would not be told to get their own guns and bu… ",FlyEagles4,"New Jersey, USA","[('America', 'GPE')]","{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.5994}",USA
+8,,   Or wants to spread the  to Millions,moderateRepand1,"New Jersey, USA","[('Millions', 'CARDINAL')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+9,,  Or wants to spread the  to Millions,moderateRepand1,"New Jersey, USA","[('Millions', 'CARDINAL')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+10,,"Hey  if you infect my boy , im comin' for you",Boone_Tang,"England, United Kingdom",[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",UK
+11,, stop it. It would be very kind of you.,JimmyMcGuinnes7,,[],"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",
+12,,        … ,AmnaadnanAD,,[],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",
+13,,Plant lovers please help !  Retweet to make awareness Plants will die - Government please do something ..… ,CatherineCoombs,,[],"{'neg': 0.151, 'neu': 0.425, 'pos': 0.425, 'compound': 0.7263}",
+14,,    Spread the word - The  is offering to provide legal advice and whis…,dafyddmihangel,Cymru (Wales to all Heathens),[],"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",UK
+15,,     It's the British formula 1 team.Almost all from Britain.Mercedes is j…,benjamat10,"Wales, United Kingdom","[('British', 'NORP'), ('1', 'CARDINAL'), ('Britain', 'GPE'), ('Mercedes', 'ORG')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",UK
+16,, yall messin up my diet bro,BigBallerHassan,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+17,,"Having rosół with udon noodles tomorrow due to limited stocks at the supermarket. Thanks a lot , you ar… ",wifeyriddim,North west LONDOn,"[('tomorrow', 'DATE')]","{'neg': 0.096, 'neu': 0.758, 'pos': 0.146, 'compound': 0.25}",UK
+18,, please say april fools,joshuacej,,"[('april', 'DATE')]","{'neg': 0.427, 'neu': 0.267, 'pos': 0.307, 'compound': -0.2263}",
+19,," Spare a few minutes to watch the Roedean Choir perform a moving rendition of Hallelujah, conducted by the one and only …",joshglancy,"Washington, DC","[('a few minutes', 'TIME'), ('Hallelujah', 'ORG')]","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.6124}",USA
+20,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",ebner_jane,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+21,,    Really bad make God almighty help us Corona virus doing his own… ,Adewumioluwad14,"Obanikoro, Lagos ",[],"{'neg': 0.212, 'neu': 0.504, 'pos': 0.284, 'compound': 0.0697}",Nigeria
+22,,     Waiting patiently .. ,Skuby1968,Dublin,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ireland
+23,," Takes in millions, pays no taxes, turns those in need away from his church. #Osteen just another cult… ",donholt99,"Texas, USA","[('millions', 'CARDINAL'), ('Osteen', 'MONEY')]","{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.296}",USA
+24,,"China's notorious 'wet markets' have reopened - selling bats, pangolins and dogs for human consu... -… ",NarenTada,india,"[('China', 'GPE')]","{'neg': 0.172, 'neu': 0.828, 'pos': 0.0, 'compound': -0.4404}",India
+25,,      Wow wonder if he will run for governor,fredmoser4,,[],"{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.5859}",
+26,," Why can’t  be like this man. A leader, strategist and a fighter of  ",AndyRFCCharman,"London, UK, EUROPE",[],"{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.4767}",UK
+27,,   rawoe,JeanYvesMouette,"Trinity Church, enterré avec mon pote Jesus",[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+28,,Sunset in the time of coronavirusPhoto jain ,manisha165a,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+29,, Why can't they seat at home and worship I now realized why Bill Gates said Millions of Africa will die of coronavirus. Fake…,mashegoTC07,Pretoria and NYC,"[('Bill Gates', 'PERSON'), ('Millions', 'CARDINAL'), ('Africa', 'LOC')]","{'neg': 0.149, 'neu': 0.766, 'pos': 0.084, 'compound': -0.4019}",South Africa
+30,, fuck You,JohnJoyal,,[],"{'neg': 0.778, 'neu': 0.222, 'pos': 0.0, 'compound': -0.5423}",
+31,,   pas top 40 sel,JeanYvesMouette,"Trinity Church, enterré avec mon pote Jesus","[('40', 'CARDINAL')]","{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.2023}",USA
+32,,  I am chill. It’s the Rona that’s tripping 🤣🤣,itsdavidaj,,"[('Rona', 'PRODUCT'), ('🤣🤣', 'PERSON')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+33,, How entrepreneurs can rise like a Phoenix as  impacts       …,weare3sixty,"London, England","[('Phoenix', 'GPE')]","{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}",UK
+34,, Please listen to my friend  who lives in Italy about the severity of the  and why you need to self i…,dianasample14,,"[('Italy', 'GPE')]","{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.6705}",
+35,,  Aye I’m gonna need you to find some chill 🤣🤣,None_Otha30,my header where it all started,"[('🤣🤣', 'PERSON')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Error
+36,, can you let us back on the field please ? ,mo3_lyfstyle,,[],"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}",
+37,, I'm currently on the last season of How I met your Mother so you better be ending soon.,tanggal2lima,Indonesia,"[('the last season', 'DATE')]","{'neg': 0.0, 'neu': 0.834, 'pos': 0.166, 'compound': 0.4902}",Indonesia
+38,,Now I have a reason to be scared of old people ,HaydenAlexis3,,[],"{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.4404}",
+39,,    It's the British formula 1 team.Almost all from Britain.Merce… ,benjamat10,"Wales, United Kingdom","[('British', 'NORP'), ('1', 'CARDINAL'), ('Britain', 'GPE')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",UK
+40,, stop,RossIsBoss247,,[],"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}",
+41,, bitch I done beat my meat 422 times in the last 2 days. HURRY UP &amp; LEAVE,itsdavidaj,,"[('422', 'CARDINAL'), ('the last 2 days', 'DATE'), ('HURRY UP &amp', 'ORG')]","{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.694}",
+42,,I WANT MY LIFE BACK!!! ,SooSUSPENDED,NYC,[],"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.2905}",USA
+43,," 6 ft is because it gives a big (not total) protection, is doable in society and flattens the curve on h… ",1martschipper1,,"[('6', 'CARDINAL')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+44,,    Spread the word - The  is offering to provide legal advice and whis…,Sparkletutu,"Great Yarmouth, England",[],"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",UK
+45,,  Remember in Apollo13 when necessity drove NASA engineers to create urgently a device to filter cabin air? Now…,KRIX60,On a blue moon,"[('Apollo13', 'GPE'), ('NASA', 'ORG')]","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}",USA
+46,,  Remember in Apollo13 when necessity drove NASA engineers to create urgently a device to filter cabin air? Now…,bernerlap,up a hill,"[('Apollo13', 'GPE'), ('NASA', 'ORG')]","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}",Error
+47,,"  come get this nigga, he’s wasting oxygen",fruitiiiz,Mars ,[],"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",USA
+48,,Daily wage labour can donate 251 rs from 392 rs  to pm care and promote his tweet atleast do something logical 🤷‍♂️… ,shahid7750,Modasa,"[('Daily', 'DATE'), ('251', 'CARDINAL'), ('392', 'CARDINAL')]","{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.7003}",India
+49,,"""if you want to go out, and act stupid"" you can do it so, but please don't come back home to infect the other peopl… ",vvibrown,,[],"{'neg': 0.077, 'neu': 0.766, 'pos': 0.157, 'compound': 0.3221}",
+50,,This is going to be a beautiful day! #chriscuomo CNN Host Chris Cuomo Tests Positive for Coronavirus… ,kryptocrib,,"[('a beautiful day', 'DATE'), ('CNN', 'FAC'), ('Chris Cuomo', 'PERSON')]","{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.8313}",
+51,,CM sahab.. where are your measures? Many of people are effected.. where is ration distribution service team?… ,ansari_98,Pakistan,"[('CM', 'ORG')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Pakistan
+52,,      How about suspending interest on mortgages tha… ,jaydotseedot,,[],"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.4588}",
+53,,    Spread the word - The  is offering to provide legal advice and whis…,ApertureImage,North of the Isle of Wight!,[],"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",United Kingdom
+54,,HANG IT UPPPPPP ,BUTERANISM,backup: @theroofbutera,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Error
+55,, You are in trouble !,Jcausey21,,[],"{'neg': 0.499, 'neu': 0.501, 'pos': 0.0, 'compound': -0.4574}",
+56,,    Spread the word - The  is offering to provide legal advice and whis…,AlanUrdaibay,,[],"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",
+57,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",DePasqualePA,"York, PA",[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+58,,Listen in as I go through Small Business Administration COVID 19 funding options  #covid19… ,shaneSnipes,"New York, NY","[('Small Business Administration', 'ORG'), ('19', 'CARDINAL')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+59,,What?   has  get well soon #cuomobrothers,Old_Hippi,,[],"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.2732}",
+60,,    Spread the word - The  is offering to provide legal advice and whis…,ResistUK1,,[],"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",
+61,,    Spread the word - The  is offering to provide legal advice and whis…,davebancroft,,[],"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",
+62,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",dshank92,"Pittsburgh, PA",[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+63,,   Spread the word - The  is offering to provide legal advice a… ,back_fights,,[],"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.128}",
+64,,      Yes yes yes,lauralies10p,pennsylvania,[],"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.7964}",USA
+65,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",lauralies10p,pennsylvania,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+66,,"Why can’t  be like this man. A leader, strategist and a fighter of  ",ResistUK1,,[],"{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.4767}",
+67,,  I’m only here to help,cynthiaaceleste,,[],"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.4019}",
+68,,   Ladies and gentlemen. We found the cure.,cynthiaaceleste,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+69,,consecutive hour three (3) of bar rescue pls go away ,CJWalters07,"New Jersey, USA","[('consecutive hour', 'TIME'), ('three', 'DATE'), ('3', 'CARDINAL')]","{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.5574}",USA
+70,, has turned us all into dogs. We roam the house all day looking for food. We're told NO if we get too c… ,isseyhorse1,"Bolton, England United Kingdom","[('all day', 'DATE')]","{'neg': 0.118, 'neu': 0.882, 'pos': 0.0, 'compound': -0.4466}",UK
+71,,    I want your  so badly lol,ImBoredAriG,6.8.19 🖤 11.19.19 🖤,[],"{'neg': 0.347, 'neu': 0.205, 'pos': 0.448, 'compound': -0.0038}",Error
+72,,F*CK YOU! ,gentlyfading,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+73,," brought rich, Prime Minister clapped, but hungry, thirsty 'poor' is dying on the road.",upendra_bage,"Bhubaneswar,Odisha",[],"{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.3182}",India
+74,,"Seeking advice for a friend who is a  scientist, now doing TV and video interviews. She needs DIY advic… ",QuantumDottie,NYC,[],"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.4939}",USA
+75,,      Sorely needed. If income has been frozen big e… ,benwren,"iPhone: 40.425628,-79.908375",[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Error
+76,," hey  fuck you man, i'll broke your ass gtfo here you fucked up virus come here e glub glub no meu ovo you filho da…",renatin_1,,[],"{'neg': 0.463, 'neu': 0.537, 'pos': 0.0, 'compound': -0.9468}",
+77,,Stop ,V2V_Moulaga,"Toulouse, France",[],"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}",France
+78,, Animal is better than human... against covid-19....he teaches the lesson to whole world tat physical distancing is bet…,africanking101,,"[('Animal', 'ORG')]","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.4404}",
+79,,#cutmyownhairchallenge if u support social distancing u should participate !! Remember world I said it first!!  ,KorrectG,,"[('first', 'ORDINAL')]","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.5951}",
+80,,"hey  fuck you man, i'll broke your ass gtfo here you fucked up virus come here e glub glub no meu ovo you filho da puta",_nxgy2,"São Paulo, Brasil",[],"{'neg': 0.451, 'neu': 0.549, 'pos': 0.0, 'compound': -0.9468}",Brazil
+81,,#SOS police roit in Photo: HSUSU#tiananmen1989 reissue#HKPoliceTerrorism#savehk#FreeHongKong… ,SoSaveHK,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+82,,        #COVID19 #coronaviru…,Jennife99007521,"Maple, Wisconsin ","[('coronaviru', 'PERSON')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+83,,  Ladies and gentlemen. We found the cure.,haydenthill,"Temecula, CA",[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+84,,"Today Finally got a positive case's of  in , Allah Save us from 😰😰   ",Zohi98104Islam,"Barpeta Road, India","[('Today', 'DATE'), ('Allah Save', 'ORG')]","{'neg': 0.0, 'neu': 0.595, 'pos': 0.405, 'compound': 0.7783}",India
+85,,  Remember in Apollo13 when necessity drove NASA engineers to create urgently a device to filter cabin air? Now…,futurelawdigita,"Wheathampstead, England","[('Apollo13', 'GPE'), ('NASA', 'ORG')]","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}",UK
+86,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",jayhan181,lil boston pa.,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+87,, don't be so deaf to the current situation cz of  Why aren't you giving the option of c… ,kvp1982,,[],"{'neg': 0.107, 'neu': 0.893, 'pos': 0.0, 'compound': -0.2584}",
+88,, #Gender #Equality : article by European Institute for Gender Equality : how the   puts women in the…,nembotavy_0101,,"[('European Institute for Gender Equality', 'ORG')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+89,,  Remember in Apollo13 when necessity drove NASA engineers to create urgently a device to filter cabin air? Now…,Wessexlaw1,,"[('Apollo13', 'GPE'), ('NASA', 'ORG')]","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}",
+90,,  Remember in Apollo13 when necessity drove NASA engineers to create urgently a device to filter cabin air? Now…,labrumsfuture,,"[('Apollo13', 'GPE'), ('NASA', 'ORG')]","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}",
+91,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",joeradosevich,The North,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+92,,  Remember in Apollo13 when necessity drove NASA engineers to create urgently a device to filter cabin air? Now…,lawgenisis,,"[('Apollo13', 'GPE'), ('NASA', 'ORG')]","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}",
+93,,#Gender #Equality : article by European Institute for Gender Equality : how the   puts women i… ,DSchaubacher,Bruxelles,"[('European Institute for Gender Equality', 'ORG')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Belgium
+94,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",JoAnnKennedyCAN,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+95,," Working from home,   tells me he is working with banks and lending institutions to get a 90-day…",quincy4council,Pittsburgh PA,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",USA
+96,,Now we are officially at war with  . It’s not just cruise ships anymore. Will  let the… ,FRInglis,,[],"{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.5994}",
+97,,Bollywood Star requesting people to stay at Home | Noida News India | Ak...  via … ,NoidaNewsIndia,"New Delhi, India","[('Bollywood Star', 'ORG'), ('Home |', 'ORG')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",India
+98,,        #COVID19 #coronaviru…,jdnyc75,,"[('coronaviru', 'PERSON')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",
+99,,The Maulana must be arrested ed and tried for homicide. His speeches making fun of the  scare and lockd… ,girishnjha,JNU New Delhi,"[('Maulana', 'PERSON'), ('ed', 'PERSON'), ('lockd', 'PERSON')]","{'neg': 0.246, 'neu': 0.625, 'pos': 0.129, 'compound': -0.4588}",India
